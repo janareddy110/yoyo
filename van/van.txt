@@ -4,3 +4,5 @@ how are u
 where are u
 what cann i do for u
 where do u want
+what about
+this is  a git practice
